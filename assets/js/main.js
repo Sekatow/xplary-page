@@ -37,8 +37,8 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'images/asda2.jpg': 'center',
-							'images/2.jpg': 'center',
-							'images/3.jpg': 'center'
+							'images/online1.jpg': 'center',
+							'images/online2.jpg': 'center'
 						},
 
 					// Delay.
